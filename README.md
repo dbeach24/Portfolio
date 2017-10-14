@@ -1,4 +1,4 @@
-# David J.C. Beach
+# David J. C. Beach
 
 This web portfolio displays some of my recent work in Data Science and Data Visualization.
 
