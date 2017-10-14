@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+# David J. C. Beach
 
-You can use the [editor on GitHub](https://github.com/dbeach24/Portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Visualizations
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### [The 50 States of US Energy](https://djbeach.shinyapps.io/usenergy/)
 
-### Markdown
+This project combines data from the [US Energy Information Administration (EIA)](https://www.eia.gov/) with other sources to give a dynamic picture of energy production and consumption across the 50 US States.  The data was combined and cleaned [using R](https://www.r-project.org/), and is dynamically displayed using R code with [plotly.js](https://plot.ly/javascript/).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### [Missing Migrants](https://bl.ocks.org/dbeach24/599725c960ce2881b1dcd46c3b20e268)
 
-```markdown
-Syntax highlighted code block
+### [D3 Visualizations on Blocks.org](https://bl.ocks.org/dbeach24)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dbeach24/Portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
