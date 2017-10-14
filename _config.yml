@@ -1,2 +1,4 @@
-github: null
-theme: jekyll-theme-dinky
+heme: jekyll-theme-dinky
+
+plugins:
+   - jekyll-sitemap
