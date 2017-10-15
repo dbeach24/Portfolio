@@ -10,6 +10,10 @@ This web portfolio displays some of my recent work in Data Science and Data Visu
 
 [T-Distributed Stochastic Neighbor Embedding (t-SNE)](https://lvdmaaten.github.io/tsne/) is a widely used technique for embedding data of high dimension into a 2-D or 3-D space, while preserving local relationships in the original data.  Most implementations of this work employ batch processing to compute the 2-D embedding from a set of fixed, high-dimensional points.  [This project](https://github.com/dbeach24/StreamingTSNE) develops a streaming version of the algorithm, which creates and refines the embedding as data arrive.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q3lbmlHWCtg?color=white&theme=light" frameborder="0" allowfullscreen></iframe>
+
+[This video](https://youtu.be/q3lbmlHWCtg) shows how the t-SNE embedding evolves as a sliding window moves over a slowly changing distribution.
+
 ## The 50 States of US Energy
 
 <a href="https://djbeach.shinyapps.io/usenergy/" target="_blank">
