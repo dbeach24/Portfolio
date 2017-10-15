@@ -1,11 +1,20 @@
 ---
 # David J. C. Beach
 
-[david@jcbeach.com](mailto:david@jcbeach.com) | +1 970.214.6688 | Denver, Colorado
+<table><tr><td>
 
-[GitHub](https://github.com/dbeach24) |
-[LinkedIn](https://www.linkedin.com/in/david-beach-7a9b50/) |
-[Portfolio](https://dbeach24.github.io/Portfolio/)
+[david@jcbeach.com](mailto:david@jcbeach.com)<br/>
++1 970.214.6688<br/>
+Denver, Colorado
+
+</td>
+<td>
+
+[Portfolio](https://dbeach24.github.io/Portfolio/)<br/>
+[LinkedIn](https://www.linkedin.com/in/david-beach-7a9b50/)<br/>
+[GitHub](https://github.com/dbeach24)
+
+</td></tr></table>
 
 ## Senior Software Architect
 
@@ -20,8 +29,6 @@ optimization, algorithm design, and software development.
 
 ## Skills
 
-Theory | Practice
------- | --------
 Software architecture, design, prototyping | HDFS, Kafka, Spark, Avro, Parquet, Spring
 Data Science and Machine Learning fundamentals | Databases: SQL, NoSQL, document, key/value
 Large-scale software development and integration | Parallel frameworks (map/reduce, job queues)
