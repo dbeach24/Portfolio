@@ -33,7 +33,7 @@ and web/desktop interfaces.
 
 * Joined Data Platform Team within Equities Technologies, an operational software development
   and support team responsible for the processing and timely delivery of post-execution trade data
-  to many other areas of the firm.  High volume data flows involve 10<sup>8</sup> events daily.
+  to many other areas of the firm.  High volume data flows involve 10^8^ events daily.
 
 * Spearheaded project to implement a streaming, parallel order linkage system using Kafka and Avro/HDFS.
 
@@ -46,7 +46,7 @@ and web/desktop interfaces.
   multi-threaded Kafka consumers, and Avro and Parquet file formats.  Responsible for designing
   reliability and recovery mechanisms for “system of record” data involving multiple flows.
 
-* Prototyped and implemented a volume data simulator in Python, generating 10<sup>8</sup>'s of events for
+* Prototyped and implemented a volume data simulator in Python, generating 10^8^'s of events for
   bottleneck discovery and stress testing of newly deployed production software.
 
 * Using Spark SQL, composed scalable transformations to create derived data sets for reporting
