@@ -1,7 +1,7 @@
 ---
 # David J. C. Beach
 
-[david@jcbeach.com](mailto:david@jcbeach.com)<br/>+1 970.214.6688<br/>Denver, Colorado | [Portfolio](https://dbeach24.github.io/Portfolio/)<br/>[LinkedIn](https://www.linkedin.com/in/david-beach-7a9b50/)<br/>[GitHub](https://github.com/dbeach24)
+david &lt;at&gt; jcbeach &lt;.&gt; com<br/>+1 970.214.6688<br/>Denver, Colorado | [Portfolio](https://dbeach24.github.io/Portfolio/)<br/>[LinkedIn](https://www.linkedin.com/in/david-beach-7a9b50/)<br/>[GitHub](https://github.com/dbeach24)
 
 ## Senior Software Architect
 
