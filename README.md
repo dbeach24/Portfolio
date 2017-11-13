@@ -14,6 +14,14 @@ This web portfolio displays some of my recent work in Data Science and Data Visu
 
 [This video](https://youtu.be/q3lbmlHWCtg) shows how the t-SNE embedding evolves as a sliding window moves over a slowly changing distribution.
 
+## The Missing Migrants
+
+<a href="https://dbeach24.github.io/missing-migrants-vis/" target="_blank">
+  <img src="img/migrants.png" alt="The Missing Migrants" width="500px"/>(link)<br/>
+</a>
+
+This visualiztion uses the [Missing Migrants](https://www.kaggle.com/jmataya/missingmigrants) dataset on Kaggle, and contains information about people who have gone missing while travelling along migration routes.  The visualization is coded using [D3.js](https://d3js.org/) and features several linked interactions.  This data originates from the [Missing Migrants Project](https://missingmigrants.iom.int/).  The [source code](https://github.com/dbeach24/missing-migrants-vis) is hosted on GitHub.
+
 ## The 50 States of US Energy
 
 <a href="https://djbeach.shinyapps.io/usenergy/" target="_blank">
@@ -21,14 +29,6 @@ This web portfolio displays some of my recent work in Data Science and Data Visu
 </a>
 
 This project combines data from the [US Energy Information Administration (EIA)](https://www.eia.gov/) with other sources to give a dynamic picture of energy production and consumption across the 50 US States.  The data was combined and cleaned [using R](https://www.r-project.org/), and is dynamically displayed using R code with [plotly.js](https://plot.ly/javascript/).
-
-## Missing Migrants
-
-<a href="https://bl.ocks.org/dbeach24/599725c960ce2881b1dcd46c3b20e268" target="_blank">
-  <img src="img/missing.png" alt="Missing Migrants" width="500px"/>(link)<br/>
-</a>
-
-This dataset is from the [Missing Migrants](https://www.kaggle.com/jmataya/missingmigrants) data on Kaggle, and contains information about people who have gone missing while travelling along migration routes.  This data originates from the [Missing Migrants Project](https://missingmigrants.iom.int/).
 
 ## Monary
 
