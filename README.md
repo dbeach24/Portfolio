@@ -55,6 +55,15 @@ attention from MongoDB, Inc., and was enhanced by several MongoDB employees.  Br
 [Kyle Suarez and Matt Cotter](https://www.youtube.com/watch?v=oteFpXIKBYg) and
 [Anna Herlihy](https://www.youtube.com/watch?v=E70AO8r5sMs).
 
+## Datasci Resources
+
+<a href="https://trello.com/b/Uzcg2I6d/datasci-resources" target="_blank">
+  <img src="img/datasci-resources.png" alt="DataSci Resources" width="500px"/>(link)<br/>
+</a>
+
+This is a Trello board I maintain which serves as a repository of bookmarks to different
+datascience repositories, projects, and tools on the web.
+
 ## D3 Visualizations on Blocks.org
 
 <a href="https://bl.ocks.org/dbeach24" target="_blank">
