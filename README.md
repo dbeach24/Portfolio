@@ -8,7 +8,7 @@ This web portfolio displays some of my recent work in Data Science and Data Visu
   <img src="img/roam.png" alt="Roam Explorer" width="500px"/>(link)<br/>
 </a>
 
-Roam is an experiment in visual interaction employing t-SNE scatterplots as a way to overview and select data.  Roam allows the user to change the organization of the overview scatterplot by prioritizing different variable weights.  Selection, highlighting, and coloring are used effectively to communicate the association between scatterplot points and quantitative and qualitative values.  Using Roam, a user can gain a good overview of the distribution of high-dimensional data and relationships between many variables.
+Roam is an experiment in visual interaction employing t-SNE scatterplots as a way to overview and select data.  Roam allows the user to change the organization of the overview scatterplot by prioritizing different variable weights.  Selection, highlighting, and coloring are used effectively to communicate the association between scatterplot points and quantitative and qualitative values.  Using Roam, the user receives a overview of the distribution of high-dimensional data and relationships between many variables.
 
 ## Streaming t-SNE
 
